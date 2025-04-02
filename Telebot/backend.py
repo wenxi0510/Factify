@@ -3,7 +3,7 @@ import google.generativeai as genai
 from serpapi import GoogleSearch
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyDiuTDSD33lLBuqgZyVfmtmmUtjO8PWoPA")
+genai.configure(api_key="CREATE NEW API")
 
 # Initialize Flask app
 app = Flask(__name__)
