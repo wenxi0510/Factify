@@ -56,3 +56,14 @@ Open `index.html` in a browser, enter a claim, and click “Check Now” to get 
 - Integrate with more fact-checking databases.
 - Improve NLP models for higher accuracy.
 - Expand to other messaging platforms like WhatsApp.
+
+##Contributors
+- Chiang Wen Xi 
+- Amelyn Siew
+- Clarabelle Chua 
+- Xinuo Zhu
+
+
+
+
+
