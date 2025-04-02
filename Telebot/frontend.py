@@ -3,7 +3,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 import requests  # Import requests to call the backend
 
 # Telegram bot token
-BOT_TOKEN = "8123283154:AAEun9YLdCc--enHywJMNgTu1M85HO6IS5Q"
+BOT_TOKEN = "CREATE BOT TOKEN"
 
 # Define backend URL
 BACKEND_URL = "http://127.0.0.1:5000/fact-check"
